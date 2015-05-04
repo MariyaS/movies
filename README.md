@@ -7,9 +7,10 @@ A Python module that provides a static web-page with a few movies with box art i
 I. File list
 --------------
 media.py			- Python class to store data structure for the class Movie
+
 fresh_tomatoes.py		- Python module that creates the HTML page and populates it with any argument movie instances 
-entertainment_center.py		- Python file that creates movie class instances, populates them into an array, and passes the array to 
-				a fresh_tomatoes method to display them in an HTML page
+
+entertainment_center.py		- Python file that creates movie class instances, populates them into an array, and passes the array to a fresh_tomatoes method to display them in an HTML page
 
 
 II. How to Run the 'Movie_Website' project
@@ -22,8 +23,11 @@ Running the 'entertainment_center.py' file will create compiled python files (.p
 
 
 To run these files from a location on your computer make sure to have the appropriate version of Python installed:
+
 1.  Navigate to the correct folder
+
 2.  Run the python module 'entertainment_center.py'.
+
 3.  This should open a new tab in the default browser with the newly created page fresh_tomatoes.html.
 
 
